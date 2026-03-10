@@ -17,7 +17,7 @@ Passionate about building scalable web applications and modern mobile apps. I en
 - SQL
 - Html
 - C
-- css
+  
 
 
 ### Backend Development
