@@ -74,6 +74,11 @@ Android news reader application built with **Kotlin, MVVM architecture, Retrofit
 A **web-based project and workflow management system** designed to organize tasks, manage team collaboration, and improve productivity through structured workflows.
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanuthjayasekera&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuthjayasekera&layout=compact&hide_border=true)
 
 # 🌐 Connect With Me
 
