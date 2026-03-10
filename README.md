@@ -50,41 +50,44 @@ Passionate about building scalable web applications and modern mobile apps. I en
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🎟 TicketSphere
-Full-stack **MERN ticket management system** with authentication, role-based access, and event ticket management.
+Full-stack **MERN ticket management system** with authentication, role-based access control, and event ticket management.
 
 ### 📚 Inkspire Learning Platform
-A **learning plan management and skill-sharing platform** built with **Spring Boot + React**, allowing users to create learning plans, follow users, and manage reminders.
+A **learning plan management and skill-sharing platform** built with **Spring Boot + React**, allowing users to create learning plans, follow other users, and manage reminders.
 
 ### 🛍 Saree Hub Management System
-A full-stack **e-commerce management system** for saree sales with product management, authentication, and order processing.
+A full-stack **saree sales management system** built with **Node.js, Express, MongoDB and React**, supporting authentication, product management, and order tracking.
 
 ### 🧾 Clothing POS System
-An **offline-capable Point of Sale system** for clothing businesses built with **JavaScript + Tailwind CSS** and browser-based database storage.
+An **offline-capable Point of Sale system** for clothing businesses built with **JavaScript + Tailwind CSS** and **Dexie.js local database**.
 
 ### 📱 Android Todo Reminder App
-Task management Android application built with **Kotlin and Jetpack Compose**, featuring reminders, notifications, and local storage.
+Task management Android application built with **Kotlin and Jetpack Compose**, featuring reminders, notifications, filtering, and local storage.
 
 ### 📰 Android News App
-Android news reader application built with **Kotlin, MVVM architecture, Retrofit API integration, and Room database** for favourite articles.
+Android news reader application built with **Kotlin, MVVM architecture, Retrofit API integration, and Room database** for saving favourite news articles.
+
+### 🌊 WorkWave Platform
+A **web-based project and workflow management system** designed to organize tasks, manage team collaboration, and improve productivity through structured workflows.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanuthjayasekera&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanuthjayasekera&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuthjayasekera&layout=compact)
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 GitHub  
 https://github.com/chanuthjayasekera
 
 ---
 
-⭐ Always interested in learning new technologies and contributing to innovative software projects.
+⭐ Always interested in learning new technologies and building real-world software solutions.
