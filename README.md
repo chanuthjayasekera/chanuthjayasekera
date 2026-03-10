@@ -76,9 +76,9 @@ A **web-based project and workflow management system** designed to organize task
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanuthjayasekera&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanuthjayasekera&show_icons=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuthjayasekera&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuthjayasekera&layout=compact)
 
 # 🌐 Connect With Me
 
