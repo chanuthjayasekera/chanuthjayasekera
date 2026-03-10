@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi 👋 I'm Chanuth Jayasekera
 
-<!--
-**chanuthjayasekera/chanuthjayasekera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Undergraduate  
+💻 Full-Stack Web Developer  
+📱 Android Application Developer  
 
-Here are some ideas to get you started:
+Passionate about building scalable web applications and modern mobile apps. I enjoy learning new technologies and creating practical software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+
+### Programming Languages
+- Java
+- Kotlin
+- JavaScript
+- SQL
+
+### Backend Development
+- Spring Boot
+- Node.js
+- Express.js
+- REST API Development
+
+### Frontend Development
+- React
+- HTML5
+- CSS3
+- Tailwind CSS
+- Material UI
+
+### Mobile Development
+- Android (Kotlin)
+- Jetpack Compose
+- MVVM Architecture
+
+### Databases
+- MySQL
+- MongoDB
+- Room Database
+
+### Tools & Technologies
+- Git
+- GitHub
+- Android Studio
+- Visual Studio Code
+- Postman
+- Maven
+- Gradle
+
+---
+
+## 🚀 Featured Projects
+
+### 🎟 TicketSphere
+Full-stack **MERN ticket management system** with authentication, role-based access, and event ticket management.
+
+### 📚 Inkspire Learning Platform
+A **learning plan management and skill-sharing platform** built with **Spring Boot + React**, allowing users to create learning plans, follow users, and manage reminders.
+
+### 🛍 Saree Hub Management System
+A full-stack **e-commerce management system** for saree sales with product management, authentication, and order processing.
+
+### 🧾 Clothing POS System
+An **offline-capable Point of Sale system** for clothing businesses built with **JavaScript + Tailwind CSS** and browser-based database storage.
+
+### 📱 Android Todo Reminder App
+Task management Android application built with **Kotlin and Jetpack Compose**, featuring reminders, notifications, and local storage.
+
+### 📰 Android News App
+Android news reader application built with **Kotlin, MVVM architecture, Retrofit API integration, and Room database** for favourite articles.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanuthjayasekera&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuthjayasekera&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+GitHub  
+https://github.com/chanuthjayasekera
+
+---
+
+⭐ Always interested in learning new technologies and contributing to innovative software projects.
