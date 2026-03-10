@@ -15,6 +15,10 @@ Passionate about building scalable web applications and modern mobile apps. I en
 - Kotlin
 - JavaScript
 - SQL
+- Html
+- C
+- css
+
 
 ### Backend Development
 - Spring Boot
